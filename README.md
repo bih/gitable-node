@@ -2,7 +2,9 @@
 
 # gitable-node
 
-Bot to automatically sync and update an [Airtable](https://airtable.com) sheet with GitHub pull request and issue data. A [Node.js](https://nodejs.org) port of <https://github.com/jessfraz/gitable>.
+Bot to automatically sync and update an [Airtable](https://airtable.com) sheet with GitHub pull request and issue data.
+
+A [Node.js](https://nodejs.org) port of <https://github.com/jessfraz/gitable>.
 
 ## Installation
 
